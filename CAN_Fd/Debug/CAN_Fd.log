@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\sn03947\documents\visual studio 2015\projects\can_fd\can_fd\can_cfg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sn03947\documents\visual studio 2015\projects\can_fd\can_fd\main.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  can_dec.cpp
+c:\users\sn03947\documents\visual studio 2015\projects\can_fd\can_fd\can_cfg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sn03947\documents\visual studio 2015\projects\can_fd\can_fd\can_dec.cpp(211): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  正在生成代码...
+  CAN_Fd.vcxproj -> C:\Users\sn03947\documents\visual studio 2015\Projects\CAN_Fd\Debug\CAN_Fd.exe
+  CAN_Fd.vcxproj -> C:\Users\sn03947\documents\visual studio 2015\Projects\CAN_Fd\Debug\CAN_Fd.pdb (Partial PDB)
